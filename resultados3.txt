@@ -1,0 +1,4 @@
+[ NUÑEZ ERICK (EJERCICIO LIBRO)]
+[TIME]: 3431.3251972198486
+[NUMBER OF WORDS]: 38146 words, excluyendo the words menores a 5 letras
+LA PALABRA [hoy] APARECE: 24 veces
